@@ -11,7 +11,7 @@ This project is an NLP system for spam detection using various machine learning 
 
 2. **Jupyter Notebook**: Run the `spam_detection.ipynb` notebook to execute the code step-by-step.
 
-3. **Neural Network**: The neural network code can be run on [Google Colab](https://colab.research.google.com) for better compatibility.
+3. **Neural Network**: The neural network code can be run on [Google Colab](https://colab.research.google.com/github/joshuarebo/nlp_project/blob/master/Extension_of_NLP_project.ipynb) for better compatibility.
 
 ## Contact
 
