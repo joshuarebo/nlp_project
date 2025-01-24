@@ -1,0 +1,8 @@
+jupyter
+ucimlrepo
+pandas
+scikit-learn
+tensorflow
+nltk
+xgboost
+keras
