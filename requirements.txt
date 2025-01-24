@@ -6,3 +6,5 @@ tensorflow
 nltk
 xgboost
 keras
+matplotlib
+seaborn
